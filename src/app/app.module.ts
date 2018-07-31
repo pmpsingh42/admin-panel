@@ -7,6 +7,7 @@ import { NavbarComponent } from './components/navbar/navbar.component';
 import { LayoutComponent } from './layout/layout.component';
 import { SidebarComponent } from './components/sidebar/sidebar.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
